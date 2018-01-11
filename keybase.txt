@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/francisn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://francisn.com
+  * I am francisn (https://keybase.io/francisn) on keybase.
+  * I have a public key ASDAa9VQOZgbtds6ZNIeC2dah5704xV0c9kGgO2JAzHX3go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c06bd55039981bb5db3a64d21e0b675a879ef4e3157473d90680ed890331d7de0a",
+      "host": "keybase.io",
+      "kid": "0120c06bd55039981bb5db3a64d21e0b675a879ef4e3157473d90680ed890331d7de0a",
+      "uid": "0874a2f3d0e0e13298520a0628858119",
+      "username": "francisn"
+    },
+    "merkle_root": {
+      "ctime": 1515667252,
+      "hash": "cf5c2d5ce941594d0f7b17eb824d49b21efa6cfd47c3286559df1ffda0a6346d49c4cdaf7a2e11da50cdd0c34fb2afeb88ff6a7f7d60035622276843bba503a5",
+      "hash_meta": "0a87ece8fea42dfb2d703969f84f7cb412d3d0f867b30a7a4e8665110a3246f1",
+      "seqno": 1914462
+    },
+    "service": {
+      "hostname": "francisn.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1515667327,
+  "expire_in": 504576000,
+  "prev": "a87325ca467157a5b050f3968509d5aaa816d0df20ba6eff7f44a21b42b3796a",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwGvVUDmYG7XbOmTSHgtnWoee9OMVdHPZBoDtiQMx194Kp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzA2YmQ1NTAzOTk4MWJiNWRiM2E2NGQyMWUwYjY3NWE4NzllZjRlMzE1NzQ3M2Q5MDY4MGVkODkwMzMxZDdkZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzA2YmQ1NTAzOTk4MWJiNWRiM2E2NGQyMWUwYjY3NWE4NzllZjRlMzE1NzQ3M2Q5MDY4MGVkODkwMzMxZDdkZTBhIiwidWlkIjoiMDg3NGEyZjNkMGUwZTEzMjk4NTIwYTA2Mjg4NTgxMTkiLCJ1c2VybmFtZSI6ImZyYW5jaXNuIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE1NjY3MjUyLCJoYXNoIjoiY2Y1YzJkNWNlOTQxNTk0ZDBmN2IxN2ViODI0ZDQ5YjIxZWZhNmNmZDQ3YzMyODY1NTlkZjFmZmRhMGE2MzQ2ZDQ5YzRjZGFmN2EyZTExZGE1MGNkZDBjMzRmYjJhZmViODhmZjZhN2Y3ZDYwMDM1NjIyMjc2ODQzYmJhNTAzYTUiLCJoYXNoX21ldGEiOiIwYTg3ZWNlOGZlYTQyZGZiMmQ3MDM5NjlmODRmN2NiNDEyZDNkMGY4NjdiMzBhN2E0ZTg2NjUxMTBhMzI0NmYxIiwic2Vxbm8iOjE5MTQ0NjJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZnJhbmNpc24uY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxNTY2NzMyNywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJhODczMjVjYTQ2NzE1N2E1YjA1MGYzOTY4NTA5ZDVhYWE4MTZkMGRmMjBiYTZlZmY3ZjQ0YTIxYjQyYjM3OTZhIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAt8ZBWNkyB9BshGp20k8Wuvl8FmoiqcVfOzGsocMUfji9JKjHtmwjkEtR3hYxcma3kEeguY6/6QILJHtuI7AKD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINDCAmKEVHy8XmbMij3/ev2VR7o246lL8LBJKz7MoGLDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/francisn
+
+==================================================================
