@@ -1,45 +1,61 @@
 * {
    box-sizing: border-box;
 }
+
 html,
 body {
-    height: 100%;
+  height: 100%;
 }
+
 body {
-    font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
-    color: #444;
-    margin: 0 auto;
-    padding: 0 0.5em;
-    display: table;
-    max-width: 420px;
+  font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  color: #444;
+  margin: 0 auto;
+  padding: 0 0.5em;
+  display: table;
+  max-width: 420px;
 }
+
 [role="main"] {
-    display: table-cell;
-    vertical-align: middle;
-    text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
 }
+
 h1 {
-    font-weight: 400;
+  font-weight: 400;
 }
+
 .avatar {
-    border-radius: 100px;
+  border-radius: 100px;
 }
+
 .strike {
-    text-decoration: line-through;
+  text-decoration: line-through;
 }
+
 .icon {
-    width: 24px;
-    height: 24px;
-    border: none;
+  width: 24px;
+  height: 24px;
+  border: none;
 }
+
 .blend {
-    opacity: .75;
+  opacity: .75;
 }
+
 a {
-   color: inherit;
-   text-decoration: none;
-   border-bottom: 1px dotted;
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted;
 }
+
 footer a {
-   border: none;
+  border: none;
+  filter: grayscale(1);
+}
+
+footer a:hover {
+  filter: none;
 }
