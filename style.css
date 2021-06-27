@@ -11,6 +11,7 @@ body {
   font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
   font-weight: 300;
   color: #444;
+  background: #fff;
   margin: 0 auto;
   padding: 0 0.5em;
   display: table;
@@ -56,6 +57,22 @@ footer a {
   filter: grayscale(1);
 }
 
-footer a:hover {
-  filter: none;
+footer a:hover,
+footer a:focus {
+  transition: filter .4s ease-out;
+  filter: grayscale(0);
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #e0e0e0;
+    background: #121212;
+  }
+  .avatar {
+    filter: brightness(0.9);
+  }
+  footer a:hover,
+  footer a:focus {
+    filter: grayscale(0) brightness(0.8);
+  }
 }
