@@ -8,19 +8,20 @@ body {
 }
 
 body {
-  font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
-  font-weight: 300;
-  color: #444;
+  display: grid;
+  align-items: center;
+  margin: 0;
+  padding: 0;
   background: #fff;
-  margin: 0 auto;
-  padding: 0 0.5em;
-  display: table;
-  max-width: 410px;
+  color: #444;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  font-weight: 300;
 }
 
-[role="main"] {
-  display: table-cell;
-  vertical-align: middle;
+main {
+  margin: 0 auto;
+  padding: 1rem;
+  max-width: 32rem;
   text-align: center;
 }
 
@@ -29,7 +30,7 @@ h1 {
 }
 
 .avatar {
-  border-radius: 100px;
+  border-radius: 50%;
 }
 
 .strike {
@@ -50,6 +51,13 @@ a {
   color: inherit;
   text-decoration: none;
   border-bottom: 1px dotted;
+}
+
+footer {
+  display: flex;
+  gap: 2ch;
+  justify-content: center;
+  margin-top: 2rem;
 }
 
 footer a {
