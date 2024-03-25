@@ -9,7 +9,7 @@ body {
 
 body {
   display: grid;
-  align-items: center;
+  place-content: safe center;
   margin: 0;
   padding: 0;
   background: #fff;
